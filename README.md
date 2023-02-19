@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on **Various Data Engineering and Data Science Projects**
 
-- 💼 Data Engineer at [Futurense](https://futurense.com/)
+- 💼 Data Engineer at [Infosys](https://www.infosys.com/)
 
 - 🌱 I’m currently learning **Feature Engineering**
 

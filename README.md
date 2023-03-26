@@ -1,7 +1,7 @@
 <img align="right" alt="GIF"  width="300px" src="giphy.webp" />
 
 
-<h1 align="center"> <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" />, I'm Shubham Kumar <img src="Developer.gif" width="65px"></h1>
+<h1 align="center"> <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> I'm Shubham Kumar <img src="Developer.gif" width="65px"></h1>
 
 <h3 align="center">Solving Problems through code and laughter</h3>
 <h3 align="center">A Passionate Data Evangelist from India 🇮🇳 </h3>
